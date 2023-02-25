@@ -4,6 +4,6 @@
 
 - Exibe info de albuns;
 - Exibe info de artistas;
-- Exibe info.
+- Exibe info ano de lançamento.
 
 
